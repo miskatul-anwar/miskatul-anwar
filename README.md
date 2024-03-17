@@ -16,4 +16,4 @@ I'm a Computer Science and Engineering student at the University of Chittagong.
 ### Get in Touch:
 - LinkedIn: [Miskatul Anwar](https://www.linkedin.com/in/miskatul-anwar-72146828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - FaceBook: [Miskatul Anwar](https://facebook.com/anwarmiskat)
-- Email: your.email@example.com
+- Email: miskatul.anwar.csecu@gmail.com
