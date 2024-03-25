@@ -8,6 +8,10 @@
 
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=miskatul-anwar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
 <div align="center">
  
  🔭 I’m currently working on **a CLI utility**
