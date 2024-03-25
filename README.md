@@ -27,9 +27,6 @@
   <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmiskatul-anwar-72146828a%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR1DCoGPZiqbcsS3HxEXBcImAiOGwEnUt3tO0tXY3J5-HlQEOGtMFuxNo1A&h=AT34jWD73OUHy39xr1KMqmKWDqYwEGVk6WK3e3bC3K_brelpQ5kmKLwJYA7s4W71pFvUxWxqLt-aL8XTBIccxcQs-Z9mb9u0au5m9Y1rBEEW1YaZzJX6aI7jNMuBNw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
 </div>
 
  <hr/>
