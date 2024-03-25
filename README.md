@@ -7,7 +7,7 @@
 <h3 align="center">A passionate programmer from Bangladesh 🇧🇩</h3>
 
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=miskatul-anwar)](https://github.com/miskatul-anwar/github-profile-trophy)
+
 <div align="center">
  
  🔭 I’m currently working on **a CLI utility**
