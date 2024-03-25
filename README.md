@@ -24,9 +24,10 @@
   <a href="miskatul.anwar.csecu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmiskatul-anwar-72146828a%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR1DCoGPZiqbcsS3HxEXBcImAiOGwEnUt3tO0tXY3J5-HlQEOGtMFuxNo1A&h=AT34jWD73OUHy39xr1KMqmKWDqYwEGVk6WK3e3bC3K_brelpQ5kmKLwJYA7s4W71pFvUxWxqLt-aL8XTBIccxcQs-Z9mb9u0au5m9Y1rBEEW1YaZzJX6aI7jNMuBNw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+ ## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anwarmiskat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anwarmiskat) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/miskat666u) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mishkat-Fake666u) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@miskat666u) 
+
+
 </div>
 
  <hr/>
