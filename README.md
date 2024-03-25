@@ -7,6 +7,7 @@ I'm a Computer Science and Engineering student at the University of Chittagong.
 ### Skills:
 - **Programming Languages:** Python, C, C++, Java, JavaScript, Shell Scripting(sh,bash,zsh,fish) and PowerShell.
 - **Web Development:** HTML, CSS, JavaScript.
+- **Machine Learning:** Pandas, Numpy, Pytorch, Numba, CudaToolkit(Nvidia).
 - **Operating Systems:** Linux, FreeBSD, macOS.
 - **Tools:** Vim, Neovim, GNU Emacs, Eclipse, Jupyter-Notebook, Visual Studio Code, GIMP, Blender.
 
