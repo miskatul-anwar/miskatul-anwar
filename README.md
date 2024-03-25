@@ -14,14 +14,14 @@
  
  🌱 I’m currently learning **Docker, Apache2 & Nginx**
 
-💬 Ask me about **Pytorch, Cuda, Machine Learning... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Pytorch, Cuda, Machine Learning... or anything [here](https://github.com/miskatul-anwar/miskatul-anwar/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="miskatul.anwar.csecu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmiskatul-anwar-72146828a%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app%26fbclid%3DIwAR1DCoGPZiqbcsS3HxEXBcImAiOGwEnUt3tO0tXY3J5-HlQEOGtMFuxNo1A&h=AT34jWD73OUHy39xr1KMqmKWDqYwEGVk6WK3e3bC3K_brelpQ5kmKLwJYA7s4W71pFvUxWxqLt-aL8XTBIccxcQs-Z9mb9u0au5m9Y1rBEEW1YaZzJX6aI7jNMuBNw" target="_blank">
