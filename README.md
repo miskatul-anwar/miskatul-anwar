@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,emacs,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,flask,html,css,zsh" /><br>
+    <img src="https://skillicons.dev/icons?i=neovim,emacs,vscode,github,git,pytorch" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,flask,html,css," /><br>
 </div>
 
 <br/>
