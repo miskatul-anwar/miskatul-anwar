@@ -11,8 +11,6 @@ I'm a Computer Science and Engineering student at the University of Chittagong.
 - **Operating Systems:** Linux, FreeBSD, macOS.
 - **Tools:** Vim, Neovim, GNU Emacs, Eclipse, Jupyter-Notebook, Visual Studio Code, GIMP, Blender.
 
-### GitHub Stats:
-![Miskatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### Get in Touch:
 - LinkedIn: [Miskatul Anwar](https://www.linkedin.com/in/miskatul-anwar-72146828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
