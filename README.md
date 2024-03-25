@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,emacs,vscode,jupyter,github,apache,git" />
+    <img src="https://skillicons.dev/icons?i=neovim,emacs,vscode,jupyter-notebook,github,git" />
     <img src="https://skillicons.dev/icons?i=c,c++,python,javascript,java,flask,html,css" /><br>
 </div>
 
