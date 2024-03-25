@@ -5,10 +5,10 @@ I'm a Computer Science and Engineering student at the University of Chittagong.
 🔭 I’m currently focusing on enhancing my skills in various programming languages and technologies.
 
 ### Skills:
-- **Programming Languages:** Python, C, C++, Java, Shell Scripting(sh,bash,zsh,fish) and PowerShell.
+- **Programming Languages:** Python, C, C++, Java, JavaScript, Shell Scripting(sh,bash,zsh,fish) and PowerShell.
 - **Web Development:** HTML, CSS, JavaScript.
 - **Operating Systems:** Linux, FreeBSD, macOS.
-- **Tools:** Blender, Neovim, GNU Emacs, GIMP.
+- **Tools:** Vim, Neovim, GNU Emacs, Eclipse, Jupyter-Notebook, Visual Studio Code, GIMP, Blender.
 
 ### GitHub Stats:
 ![Miskatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
