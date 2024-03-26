@@ -7,7 +7,7 @@
 <h3 align="center">A passionate programmer from Bangladesh 🇧🇩</h3>
 
 <br/>
-
+<p align="left"> <a href="https://twitter.com/cinderace666" target="blank"><img src="https://img.shields.io/twitter/follow/cinderace666?logo=twitter&style=for-the-badge" alt="cinderace666" /></a> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=miskatul-anwar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
