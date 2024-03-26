@@ -39,9 +39,6 @@
 <a href="https://www.leetcode.com/cinderace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cinderace" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
- <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
